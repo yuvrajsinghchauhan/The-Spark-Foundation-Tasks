@@ -1,2 +1,2 @@
 # The-Spark-Foundation-Tasks
-Projects completed during internship at the Sparks Foundation.
+Projects completed during the internship at the Sparks Foundation.
